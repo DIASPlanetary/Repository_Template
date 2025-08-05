@@ -1,0 +1,32 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.0.0
+title: Repository Example
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Simon
+    affiliation: >-
+      Dublin Institute for Advanced Studies, School of
+      Cosmic Physics, Dublin, Ireland
+    family-names: Walker
+    orcid: 'https://orcid.org/0000-0001-5510-3726'
+identifiers:
+  - type: doi
+    value: repo doi
+    description: Zenodo
+  - type: doi
+    value: paper doi
+    description: >-
+      Paper in {Journal}: "{paper title}"
+  - type: doi
+    value: paper doi
+    description: >-
+      Paper in {Journal}:
+      "{paper title}" # second paper
+abstract: >-
+  {short description}.
+license: {}
