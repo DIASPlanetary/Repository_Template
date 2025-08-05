@@ -29,4 +29,4 @@ identifiers:
       "{paper title}" # second paper
 abstract: >-
   {short description}.
-license: {}
+license: {GNU General Public License v3.0}
