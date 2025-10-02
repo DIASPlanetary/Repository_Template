@@ -19,3 +19,5 @@ C --> D[Give the ruleset a name. Suggestion protect main]
 D --> E[Select target branch, this will most likely be the default branch for your uses]
 E --> F[Select the rules. The minium should be Restict deletions, Require a pull request before merging and Block force pushes]
 F --> G[Click create]
+
+test
