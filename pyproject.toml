@@ -1,0 +1,22 @@
+# Even for non-package works, having a pyproject file can be very useful to
+# keep track of versioning, authors, dependancies, etc.
+# Read more here:
+# https://packaging.python.org/en/latest/guides/writing-pyproject-toml/#about-your-project
+
+[project]
+name = "dias-repository-template"
+version = "0.1.0"
+description = "some description goes here"
+authors = [
+    { name="Joe Bloggs", email="bloggs.j@fake.email.net" },
+    { name="Other Author"},
+    { name="Et Cetera"},
+]
+requires-python = ">=3.13"
+dependencies = [
+    # e.g.
+    "numpy>=2.3.3",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.3",
+    "xarray>=2025.9.1",
+]
